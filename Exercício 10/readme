@@ -1,0 +1,3 @@
+# Exercício 10 - Considere a string abaixo. Imprima na tela apenas os caracteres da posição 1 a 18.
+frase = 'Completando o desafio EX 10 em python'
+
